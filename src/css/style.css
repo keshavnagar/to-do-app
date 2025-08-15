@@ -1,5 +1,11 @@
-.header{
+.inline-header{
     color: brown;
     font-size: 2rem;
     background-color: rgb(217, 56, 254);
+}
+
+.outline-header{
+    color: blueviolet;
+    background-color: aqua;
+    font-size: 2rem;
 }

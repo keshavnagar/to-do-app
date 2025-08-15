@@ -3,7 +3,7 @@ import '../css/style.css';
 const InlineComponent = () => {
   return (
     <>
-      <h1 className="header">Inlinne Component</h1>
+      <h1 className="inline-header">Inlinne Component</h1>
     </>
   );
 };

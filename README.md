@@ -76,11 +76,12 @@ Got it — I’ll write this in **your way**, short but crystal clear, so when y
 Global CSS = Everyone writing in same notebook → overwrite risk.
 CSS Modules = Everyone gets their own notebook → no clash.
 
----
-
-Keshav, I can also make you a **tiny diagram version** of this note so it’s more visual inside your `README.md`.
-Do you want me to include that too?
 
 I practicled the concept where we do css style class for both file OutlineComponent and InlineComponent in a single file style.css
 
-in outlinecomponent.jsx file
+so this is the first step okay the next step is like I also define both classes in single css file 
+
+and after that I move forward to css modules
+
+so now i created the second thing and that is i use the concept of two class in the style.css and implement them 
+it is not good because we use the name like simpler and in big project we dont have time to create names like these complicated and other things so i jsut put the things like good way that's why I use the concept of css modules where we created the file of css for each jsx files
