@@ -80,3 +80,7 @@ CSS Modules = Everyone gets their own notebook → no clash.
 
 Keshav, I can also make you a **tiny diagram version** of this note so it’s more visual inside your `README.md`.
 Do you want me to include that too?
+
+I practicled the concept where we do css style class for both file OutlineComponent and InlineComponent in a single file style.css
+
+in outlinecomponent.jsx file
