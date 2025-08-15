@@ -11,3 +11,4 @@ So this is the to do app where I documented all my code:
 10. make a saparate component for map method and give the id with props
 11. apply inline css
 12. apply css style sheet within the css folder in a src folder and make a css file
+13. we implement the css style sheet succesfully

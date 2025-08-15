@@ -1,5 +1,5 @@
-import '..css/style.css';
-const header = { color: "pink", fontSize: "6rem" };
+import '../css/style.css';
+// const header = { color: "pink", fontSize: "6rem" };
 const InlineComponent = () => {
   return (
     <>
